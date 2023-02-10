@@ -2,6 +2,7 @@
 A Travel Planning project with several destinations and vacations that you can follow.
 
 The site is also hosted on Heroku using AWS S3 Buckets as an image cloud.
+
 Link: https://travel-planner-gv.herokuapp.com/home
 
 Home Page
