@@ -16,7 +16,9 @@ Home Page when logged-in
 ![image](https://user-images.githubusercontent.com/107947484/218191886-d03b6b9e-54a6-458f-939f-ee7c4cfb1a27.png)
 
 Vacation's Page (you can "Like" a vacation to follow it)
+
 In all pages showing vacation's you can also filter them by Dates or Price (Ascending and Descending)
+
 ![image](https://user-images.githubusercontent.com/107947484/218191312-4cee499a-3456-418d-94d6-ed0c398f0505.png)
 
 Destination's Page
