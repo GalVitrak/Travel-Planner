@@ -1,0 +1,24 @@
+.Layout {
+  height: 100%;
+  box-sizing: border-box;
+  display: grid;
+  grid-template-rows: 10% 85% 5%;
+  grid-template-columns: repeat(10, 1fr);
+  overflow: hidden;
+}
+
+.Layout > header,
+.Layout > footer {
+  grid-column: span 10;
+  height: 100%;
+}
+
+.Layout > main {
+  grid-column: span 9;
+  overflow: auto;
+}
+
+.Layout,
+.Layout > * {
+  border: 1px solid black;
+}

@@ -1,0 +1,22 @@
+.charts {
+  margin: auto;
+}
+
+.vacationsChart {
+  margin: auto;
+  margin-bottom: 2%;
+  width: 85%;
+  display: flex;
+  align-items: center;
+  border: 1px solid;
+}
+
+.destinationChart {
+  margin: auto;
+  margin-bottom: 2%;
+  width: 85%;
+  display: flex;
+  align-items: center;
+  border: 1px solid;
+  box-sizing: border-box;
+}

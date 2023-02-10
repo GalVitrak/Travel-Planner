@@ -1,0 +1,37 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node build/app.js",
+    "build": "tsc",
+    "dev": "nodemon --exec ts-node src/app.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/aws-sdk": "^2.7.0",
+    "@types/cors": "^2.8.12",
+    "@types/express": "^4.17.14",
+    "@types/express-fileupload": "^1.4.1",
+    "@types/jsonwebtoken": "^9.0.1",
+    "@types/mysql": "^2.15.21",
+    "@types/node": "^18.11.9"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1304.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "express-rate-limit": "^6.7.0",
+    "joi": "^17.7.0",
+    "jsonwebtoken": "^9.0.0",
+    "mysql": "^2.18.1",
+    "node": "^18.13.0",
+    "striptags": "^3.2.0",
+    "typescript": "^4.9.4"
+  }
+}

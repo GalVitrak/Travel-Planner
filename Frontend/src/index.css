@@ -1,0 +1,87 @@
+html,
+body,
+#root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  color: black;
+  font-style: oblique;
+  background-image: linear-gradient(
+    45deg,
+    rgb(30, 144, 220),
+    rgb(142, 193, 227),
+    rgb(30, 144, 220)
+  );
+}
+
+a {
+  color: blue;
+}
+
+form {
+  width: 100%;
+  text-align: left;
+}
+
+form > h2 {
+  text-align: center;
+}
+
+form > input,
+form > button {
+  width: 100%;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+}
+
+form > textarea {
+  width: 100%;
+  box-sizing: border-box;
+  height: 100px;
+}
+
+.checkBox {
+  margin-left: 5px;
+  margin-bottom: 20px;
+}
+
+.Box {
+  display: inline-block;
+  border: 1px solid black;
+  width: 15%;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px;
+}
+
+.list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 75vh;
+}
+
+.Box select {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.Error {
+  color: red;
+  margin-left: 25px;
+  position: absolute;
+}
+
+.filterSelect {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 30px;
+  margin-top: 15px;
+}
+
+button:hover {
+  transform: scale(1.2);
+}

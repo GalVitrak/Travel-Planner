@@ -1,0 +1,12 @@
+.Menu hr {
+  margin: 15px;
+}
+
+.Menu {
+  padding: 10px;
+  margin: 15px;
+  box-sizing: border-box;
+  border: none;
+  font-size: larger;
+  font-weight: 500;
+}

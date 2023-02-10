@@ -1,0 +1,10 @@
+.paginationButtonsDiv button {
+  margin: 5px;
+  border: 1px solid blue;
+  background-color: rgb(30, 144, 220);
+}
+
+.paginationButtonsDiv .active {
+  background-color: rgb(2, 109, 180);
+  font-weight: 600;
+}

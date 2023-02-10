@@ -1,0 +1,36 @@
+.VacationCard {
+  width: 250px;
+  height: 500px;
+  display: inline-block;
+  text-align: left;
+  background-image: linear-gradient(45deg, rgb(29, 147, 244), white);
+  box-sizing: content-box;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 25px;
+  box-sizing: border-box;
+}
+
+.descriptionDiv {
+  height: 180px;
+}
+
+.VacationCard p {
+  overflow: auto;
+  overflow-x: hidden;
+  text-align: left;
+}
+
+.VacationCard img {
+  width: 100%;
+  height: 150px;
+  border: 1px solid;
+  border-radius: 10px;
+}
+
+.DestinationCard > div:last-child {
+  margin: auto;
+}

@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "esModuleInterop": true,
+    "moduleResolution": "Node",
+    "module": "NodeNext",
+    "outDir": "build",
+    "allowJs": true
+  },
+  "include": ["src/"]
+}
