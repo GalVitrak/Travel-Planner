@@ -13,7 +13,7 @@ Login and Register Pages
 ![image](https://user-images.githubusercontent.com/107947484/218191599-e9da2d8f-92ec-4d0f-a81f-3951e2776512.png)
 
 Home Page when logged-in
-![image](https://user-images.githubusercontent.com/107947484/218191192-2fa5ad14-438c-4ce5-b10e-3915c4a09d70.png)
+![image](https://user-images.githubusercontent.com/107947484/218191886-d03b6b9e-54a6-458f-939f-ee7c4cfb1a27.png)
 
 Vacation's Page (you can "Like" a vacation to follow it)
 ![image](https://user-images.githubusercontent.com/107947484/218191312-4cee499a-3456-418d-94d6-ed0c398f0505.png)
